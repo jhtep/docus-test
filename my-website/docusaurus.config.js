@@ -1,8 +1,9 @@
 module.exports = {
-  title: 'My Site',
+  title: 'My Site - Docus',
   tagline: 'The tagline of my site',
   url: 'https://github.com/jhtep/docus-test',
   baseUrl: '/docus-test/',
+  // baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'jhtep', // Usually your GitHub org/user name.
   projectName: 'docus-test', // Usually your repo name.
