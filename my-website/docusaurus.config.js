@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'docus-test', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site - Docus Test',
+      title: 'My Site - Docus Testing',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
